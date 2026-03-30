@@ -1,0 +1,100 @@
+/*Início*/
+.titulo {
+    text-decoration: underline;
+    text-decoration-color: #580ca4;
+    text-decoration-thickness: 3px;
+    padding-left: 600px;
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.foto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 700px;
+    height: 50vh;
+}
+
+.foto img {
+    width: 400px;
+    height: 600px;
+    border-radius: 5%;
+
+}
+
+.foto p {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    max-width: 600px;
+    text-decoration: underline;
+    text-decoration-color: #580ca4;
+    text-decoration-thickness: 3px;
+}
+
+.buttons {
+       display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 1px;
+    height: 90px;
+    }
+
+.one {
+    padding-right: 600px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 400px;
+    color: purple;
+    font-weight: 700;
+}
+.one:hover {
+    cursor: pointer;
+    background-color: plum;
+    transform: translateY(-3px);
+}
+.two {
+    padding-right: 600px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 400px;
+    color: purple;
+    font-weight: 700;
+}
+.two:hover {
+    cursor: pointer;
+    background-color: plum;
+    transform: translateY(-3px);
+}
+.three {
+    padding-right: 600px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 400px;
+    color: purple;
+    font-weight: 700;
+}
+.three:hover {
+    cursor: pointer;
+    background-color: plum;
+    transform: translateY(-3px);
+}
+.four {
+    padding-right: 600px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 400px;
+    color: purple;
+    font-weight: 700;
+}
+.four:hover {
+    cursor: pointer;
+    background-color: plum;
+    transform: translateY(-3px);
+}
+/*Fim*/

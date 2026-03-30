@@ -1,0 +1,46 @@
+.bio {
+    text-decoration: underline;
+    text-decoration-color: #8011bc;
+    text-decoration-thickness: 3px;
+ padding-left: 500px;
+ padding-right: 150px;
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+.bio2 {
+     border-left: 5px solid #7c109a;
+    padding-left: 20px;
+
+ margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #f5f7fa;
+    color: #333;
+}
+.bio2 {
+    max-width: 700px;
+    margin: 80px auto;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+   text-align: left;
+}
+.voltar {
+    display: block;
+    margin: 50px auto;
+    padding: 10px 20px;
+    border: 2px solid gray;
+    border-radius: 400px;
+    color: purple;
+    font-weight: 700;
+}
+  .voltar:hover {
+    cursor: pointer;
+    background-color: plum;
+    transform: translateY(-3px);
+
+
+  }
